@@ -29,7 +29,6 @@ body {
     margin: 0.6rem;
     border-radius:0.6rem;
     font-size: 1vw;
-    
 }
 
 footer {
@@ -40,6 +39,7 @@ footer {
     width: 100%;
     height: 2rem;
 }
+
 footer p {
     text-align: center;
     font-size: 0.6rem;
